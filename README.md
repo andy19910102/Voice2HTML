@@ -10,6 +10,8 @@ English Demo Video: [https://youtu.be/GGfMprC8Ado](https://youtu.be/GGfMprC8Ado)
 
 中文展示片段: [https://youtu.be/BhgsN5zuIGY](https://youtu.be/BhgsN5zuIGY)
 
+日本語デモクリップ: [https://youtu.be/NYS-tD2Geak](https://youtu.be/NYS-tD2Geak)
+
 
 ## Features
 
