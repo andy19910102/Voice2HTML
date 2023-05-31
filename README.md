@@ -2,6 +2,9 @@
 
 This project enables the generation of simple HTML source code through voice commands, using OpenAI's Whisper model.
 
+中文展示片段：[https://youtu.be/BhgsN5zuIGY](https://youtu.be/BhgsN5zuIGY)
+
+
 ## Features
 
 - **Voice Recognition**: The Whisper ASR API provides accurate voice recognition to interpret user instructions.
