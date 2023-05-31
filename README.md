@@ -1,8 +1,14 @@
-# Voice2HTML: A Node.js Voice Commands AI Application using OpenAI's Whisper API
+# Voice2HTML
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+A Node.js Voice Commands AI Application using OpenAI's Whisper API.
 
 This project enables the generation of simple HTML source code through voice commands, using OpenAI's Whisper model.
 
-中文展示片段：[https://youtu.be/BhgsN5zuIGY](https://youtu.be/BhgsN5zuIGY)
+English Demo Video: [https://youtu.be/GGfMprC8Ado](https://youtu.be/GGfMprC8Ado)
+
+中文展示片段: [https://youtu.be/BhgsN5zuIGY](https://youtu.be/BhgsN5zuIGY)
 
 
 ## Features
